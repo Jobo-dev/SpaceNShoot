@@ -1,13 +1,47 @@
-# SpaceNShoot
-A Monogame Solition based on the popular retro Game Metal Slug
+# 🚀 SpaceNShoot
 
-This is a game based on the NeoGeo game franchise Metal Slug.
+**SpaceNShoot** es un juego arcade desarrollado con **MonoGame**, inspirado en la franquicia retro *Metal Slug* de NeoGeo.
 
-The rules are simple, you have to eliminate the enemy ships in order to get as many points as possible. To get a high score, you also have to avoid being hit by the obstacles that wil come out or the enemy shots as your score progresses.
-At the beginning and every time you respawn there will be a moment when you're protected, wich means that you are immune to any kind of enemy contact, but it's just a moment. Also your bullets can make damage in this state!
+Fue creado como un proyecto personal para practicar desarrollo de videojuegos en C# y sistemas de juego clásicos tipo “shoot 'em up”.
 
-The game ends when the player´s life counter reaches Zero.
+---
 
-Programming Language: C#
-Developed in MonoGame
-December 3, 2019
+## 🎮 Descripción del juego
+
+Las reglas son simples: elimina la mayor cantidad posible de naves enemigas para obtener una puntuación alta.
+
+### Mecánicas principales:
+- 📈 A medida que avanzas, aparecerán obstáculos y disparos enemigos que debes evitar.
+- 🛡️ Cada vez que inicias o reapareces, dispones de un breve periodo de **invulnerabilidad**, durante el cual puedes causar daño sin recibirlo.
+- 💥 El juego termina cuando el contador de vidas del jugador llega a cero.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Lenguaje:** C#
+- **Motor:** [MonoGame](https://www.monogame.net/)
+- **Fecha de desarrollo:** Diciembre, 2019
+
+---
+
+## ▶️ Cómo jugar
+
+Descarga el ejecutable encontrado en la ventana de releases o bien, puedes compilar el proyecto siguiendo los siguientes pasos:
+
+1. Compila el proyecto desde Visual Studio con MonoGame instalado.
+2. Ejecuta el juego desde el archivo `*.sln`.
+3. Usa las teclas de movimiento y disparo para eliminar enemigos y evitar colisiones.
+
+---
+
+## 🪪 Licencia
+
+Este proyecto está disponible bajo la [Licencia MIT](./LICENSE).  
+Eres libre de usarlo, modificarlo o distribuirlo con atribución adecuada.
+
+---
+
+## 🙋‍♂️ Autor
+
+Desarrollado por Jorge Carvajal – [GitHub](https://github.com/JoboDev)
